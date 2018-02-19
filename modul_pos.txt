@@ -1,0 +1,43 @@
+modul - modul POS
+1. modul admin and account settings
+	- username password email foto (encrypt)
+	- mengatur hak akses tiap jenis user
+	- mengatur fitur yang disabled , enabled
+	- mengatur dashboard tiap jenis user
+	- account setting profile tiap user
+
+2. modul master data category and modifier
+	- mengatur list kategori yang dibutuhkan
+	- mengatur list satuan yang dibutuhkan
+	- import data dari excel
+	- export ke dalam bentuk pdf dan excel
+
+3. modul data product
+	- mengatur list data product berdasarkan kategori
+	- mengatur harga beli dan harga jual
+	- mengatur discount 
+	- mengatur tax
+
+4. modul data supplier and member
+	- mengatur list data supplier dan member (pembeli)
+
+5. modul data inventory
+	- mengatur seluruh persediaan produk yang ada untuk dijual
+	- membuat rangkuman inventory harian,mingguan,bulanan
+
+6. modul purchase order (PO)
+	- mengatur purchase order ke vendor
+	- export purchase order ke pdf
+
+7. modul transaction 
+	- mengatur seluruh transaksi penjualan
+	- membuat rangkuman keuntungan yang didapat
+	- mensinkronisasikan dengan stok yang tersedia
+	- membuat laporan penjualan
+	- membuat invoice penjualan yang bisa dicetak atau dkirim ke email
+
+8. modul executive summary
+	- membuat laporan penjualan
+	- membuat rencana target pencapaian
+	- membuat catatan terkait analisa penjualan
+	- executive summary akan ditampilkan di dashboard
